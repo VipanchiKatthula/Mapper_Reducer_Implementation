@@ -25,4 +25,5 @@ We define functions to perform all the transformations of the data and call them
 ![GitHub Logo](/Images/multithreading.PNG)
 
 ## RESULT
+Here is the result of the counter we created using the basic python functions that show the mapper-reducer implementation. 
 ![GitHub Logo](/Images/output.JPG)
